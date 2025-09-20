@@ -6,5 +6,5 @@ Este projeto usa **Docker** e **JupyterLab** para rodar ambientes reprodutíveis
 
 1. Clone este repositório:
    ```bash
-   git clone git@github.com:usuario/meu-projeto.git
-   cd meu-projeto
+   git clone git@github.com:Matheus190608/test.git
+   cd test
